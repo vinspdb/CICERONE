@@ -4,7 +4,7 @@
 <img width="491" height="509" alt="cicerone" src="https://github.com/user-attachments/assets/0b60aa2f-9d41-4feb-aa73-99cff6810637" />
     </td>
     <td align="right" valign="middle">
-      <h1>CICERO</h1>
+      <h1>CICERONE: A Natural Language-based Global Approach for Object-Centric Predictive Process Monitoring</h1>
     </td>
   </tr>
 </table>
@@ -14,4 +14,4 @@
 *Vincenzo Pasquadibisceglie, Annalisa Appice, Donato Malerba*
 
 
-[*CICERO*]
+[*CICERONE: A Natural Language-based Global Approach for Object-Centric Predictive Process Monitoring*]
