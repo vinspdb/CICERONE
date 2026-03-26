@@ -24,11 +24,23 @@ Then generate the process execution, specifying the alpha value (0, 0.1, or 0.2)
 ```
 python -m generate_process_exe 0
 ```
-## Step 2: Generate the semantic stories of the object-centric process executions
+## Step 2: Generate the semantic stories of the object-centric process executions.
 ```
 python -m generate_local_texts 0
 ```
-## Step 3: Generate the global batches of the object-centric process executions
+## Step 3: Generate the global batches of the object-centric process executions.
 ```
 python -m generate_global_batches 0
+```
+## Step 4: CICERONE Training
+
+Once the labelled examples have been generated, you can train CICERONE.
+
+### CICERONE Global
+```
+python -m neural_network.cicerone_global order_management_0 prajjwal1/bert-medium
+```
+### CICERONE Local
+```
+python -m neural_network.cicerone_local order_management_0 prajjwal1/bert-medium
 ```
