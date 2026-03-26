@@ -34,7 +34,7 @@ python -m generate_global_batches 0
 ```
 ## Step 4: CICERONE Training
 
-Once the labelled examples have been generated, you can train CICERONE.
+Once the labeled examples have been generated, you can train CICERONE.
 
 ### CICERONE Global
 ```
