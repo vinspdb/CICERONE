@@ -1,7 +1,7 @@
 <table border="0">
   <tr>
     <td valign="middle" width="200">
-<img width="1024" height="1024" alt="medusa" src="https://github.com/user-attachments/assets/3960ea01-3473-4c03-835c-efba4be00c18" />
+<img width="491" height="509" alt="cicerone" src="https://github.com/user-attachments/assets/0b60aa2f-9d41-4feb-aa73-99cff6810637" />
     </td>
     <td align="right" valign="middle">
       <h1>CICERO</h1>
