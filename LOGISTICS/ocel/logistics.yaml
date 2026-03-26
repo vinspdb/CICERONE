@@ -1,0 +1,20 @@
+viewpoint: CustomerOrder
+relations:
+  - from: CustomerOrder
+    to: TransportDocument
+    qualifier: TD for CO
+    direction: forward
+  - from: TransportDocument
+    to: Container
+    qualifier: CR for TD
+    direction: backward
+  - from: Container
+    to: HandlingUnit
+    qualifier: CR contains HU
+    direction: forward
+  - from: Container
+    to: Transport
+    qualifier: TR loads CR
+    direction: backward
+
+include_objects: [CustomerOrder, TransportDocument, Container, HandlingUnit]
