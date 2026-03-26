@@ -15,3 +15,20 @@
 
 
 [*CICERONE: A Natural Language-based Global Approach for Object-Centric Predictive Process Monitoring*]
+
+# How to Use
+
+## Step 1: Prepare the Dataset
+Move to the specific OCEL directory (e.g., ORDER_MANAGEMENT).
+Then generate the process execution, specifying the alpha value (0, 0.1, or 0.2).
+```
+python -m generate_process_exe 0
+```
+## Step 2: Generate the semantic stories of the object-centric process executions
+```
+python -m generate_local_texts 0
+```
+## Step 3: Generate the global batches of the object-centric process executions
+```
+python -m generate_global_batches 0
+```
