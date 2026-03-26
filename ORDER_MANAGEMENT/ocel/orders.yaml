@@ -1,0 +1,16 @@
+viewpoint: Orders
+
+relations:
+  - from: Orders
+    to: Items
+    qualifier: "comprises"
+    direction: forward
+  - from: Items
+    to: Packages
+    qualifier: "contains"
+    direction: backward
+
+include_objects:
+  - Orders
+  - Items
+  - Packages

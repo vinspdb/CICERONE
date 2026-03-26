@@ -1,0 +1,12 @@
+ocel_type;ocel_type_map
+pay order;PayOrder
+package delivered;PackageDelivered
+place order;PlaceOrder
+create package;CreatePackage
+confirm order;ConfirmOrder
+item out of stock;ItemOutOfStock
+pick item;PickItem
+send package;SendPackage
+payment reminder;PaymentReminder
+reorder item;ReorderItem
+failed delivery;FailedDelivery
