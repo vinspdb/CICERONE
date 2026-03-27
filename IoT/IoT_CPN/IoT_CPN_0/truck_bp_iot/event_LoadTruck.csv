@@ -1,8 +1,3 @@
-ocel_id;ocel_time
-load_trucktr91;2024-05-02 06:06:40
-load_trucktr70;2024-05-02 07:36:40
-load_trucktr5;2024-05-04 06:06:40
-load_trucktr52;2024-05-04 06:06:40
-load_trucktr68;2024-05-05 20:30:00
-load_trucktr22;2024-05-05 22:00:00
-load_trucktr35;2024-05-07 04:06:40
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a5e2ea085ec0d9be7df79d5f9abe8d17141f1a8493eb67c5fe3c440c05e99f
+size 262

@@ -1,15 +1,3 @@
-ocel_type;ocel_type_map
-Register Customer Order;RegisterCustomerOrder
-Create Transport Document;CreateTransportDocument
-Book Vehicles;BookVehicles
-Order Empty Containers;OrderEmptyContainers
-Pick Up Empty Container;PickUpEmptyContainer
-Collect Goods;CollectGoods
-Load Truck;LoadTruck
-Drive to Terminal;DriveToTerminal
-Weigh;Weigh
-Place in Stock;PlaceInStock
-Bring to Loading Bay;BringToLoadingBay
-Load to Vehicle;LoadToVehicle
-Reschedule Container;RescheduleContainer
-Depart;Depart
+version https://git-lfs.github.com/spec/v1
+oid sha256:13c375117738262d1b310093ef54866be33a4534994f7d0fbcc8d4e5232d2e05
+size 482

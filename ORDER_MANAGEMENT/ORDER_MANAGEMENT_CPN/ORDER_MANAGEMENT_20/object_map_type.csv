@@ -1,7 +1,3 @@
-ocel_type;ocel_type_map
-orders;Orders
-items;Items
-packages;Packages
-customers;Customers
-products;Products
-employees;Employees
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbe5ed16ee0814a0fc9032eac64cef2d8a8202cf5ed7a071ce5865222b1ec288
+size 133

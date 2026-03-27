@@ -1,19 +1,3 @@
-ocel_id;ocel_time;ocel_changed_field;role
-Wil van der Aalst;2023-04-03 01:00:00;;Sales
-Christine von Dobbert;2023-04-03 01:00:00;;Sales
-Jan Niklas Adams;2023-04-03 01:00:00;;Sales
-Mara Nitschke;2023-04-03 01:00:00;;Sales
-Istvan Koren;2023-04-03 01:00:00;;Sales
-Alessandro Berti;2023-04-03 01:00:00;;Shipment
-Eduardo Goulart Rocha;2023-04-03 01:00:00;;Shipment
-Majid Rafiei;2023-04-03 01:00:00;;Shipment
-Viki Peeva;2023-04-03 01:00:00;;Shipment
-Yisong Zhang;2023-04-03 01:00:00;;Shipment
-Benedikt Knopp;2023-04-03 01:00:00;;Warehousing
-Christopher Schwanen;2023-04-03 01:00:00;;Warehousing
-Leah Tacke genannt Unterberg;2023-04-03 01:00:00;;Warehousing
-Detlef Wetzeler;2023-04-03 01:00:00;;Warehousing
-Gyunam Park;2023-04-03 01:00:00;;Shipment
-Marco Pegoraro;2023-04-03 01:00:00;;Warehousing
-Nina Graves;2023-04-03 01:00:00;;Warehousing
-Mahsa Bafrani;2023-04-03 01:00:00;;Warehousing
+version https://git-lfs.github.com/spec/v1
+oid sha256:b12bfadc6b2801b0100e0da0e7924ffcbf24443260aee56411aa105044a18e48
+size 901

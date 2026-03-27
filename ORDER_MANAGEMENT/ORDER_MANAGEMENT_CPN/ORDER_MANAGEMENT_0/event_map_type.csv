@@ -1,12 +1,3 @@
-ocel_type;ocel_type_map
-pay order;PayOrder
-package delivered;PackageDelivered
-place order;PlaceOrder
-create package;CreatePackage
-confirm order;ConfirmOrder
-item out of stock;ItemOutOfStock
-pick item;PickItem
-send package;SendPackage
-payment reminder;PaymentReminder
-reorder item;ReorderItem
-failed delivery;FailedDelivery
+version https://git-lfs.github.com/spec/v1
+oid sha256:216fd67645e434da445400b1dff3aaf97cd4d49e01f65e38471b3e6075c17d49
+size 335

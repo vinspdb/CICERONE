@@ -1,15 +1,3 @@
-ocel_type;ocel_type_map
-Lodge Pickup Plan;LodgePickupPlan
-Assign Truck;AssignTruck
-Enter the port;Enterport
-Weigh the Empty Truck;WeighEmptyTruck
-Check Empty Truck Weight Abnormality;CheckEmptyTruckWeightAbnormality
-Fail to Weigh;FailtoWeigh
-Arrive at the Silo;ArriveatSilo
-Determine the Continuance of the Pickup;DetermineContinuanceofPickup
-Fail to Load;FailtoLoad
-Load Truck;LoadTruck
-Weigh the Loaded Truck;WeighLoadedTruck
-Evaluate the Truck Exit;EvaluateTruckExit
-Input the Tally Sheet;InputTallySheet
-Print the Weighing Ticket;PrintWeighingTicket
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e9246e5af05927960b45e3f2bccc81c5ce90db88bffc04bf9545e45fe231441
+size 554
