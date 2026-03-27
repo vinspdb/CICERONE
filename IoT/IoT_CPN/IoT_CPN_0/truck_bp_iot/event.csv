@@ -1,0 +1,187 @@
+ocel_id;ocel_type
+Lodge_Pcp770;Lodge Pickup Plan
+Lodge_Pcp1776;Lodge Pickup Plan
+assign_trs_Pcp770;Assign Truck
+assign_trs_Pcp770;Assign Truck
+assign_trs_Pcp770;Assign Truck
+trs_entrytr91;Enter the port
+weigh_empty_trucktr91;Weigh the Empty Truck
+trs_entrytr81;Enter the port
+trs_entrytr70;Enter the port
+weigh_empty_trucktr70;Weigh the Empty Truck
+weigh_empty_trucktr81;Weigh the Empty Truck
+check_abnormalitytr91;Check Empty Truck Weight Abnormality
+check_abnormalitytr70;Check Empty Truck Weight Abnormality
+check_abnormalitytr81;Check Empty Truck Weight Abnormality
+arrive_at_Silo29;Arrive at the Silo
+fail_weightr81;Fail to Weigh
+determine_continuanceSilo29;Determine the Continuance of the Pickup
+arrive_at_Silo29;Arrive at the Silo
+load_trucktr91;Load Truck
+determine_continuanceSilo29;Determine the Continuance of the Pickup
+load_trucktr70;Load Truck
+weigh_loaded_trucktr91;Weigh the Loaded Truck
+weigh_loaded_trucktr70;Weigh the Loaded Truck
+Lodge_Pcp820;Lodge Pickup Plan
+input_tally_sheettr91;Input the Tally Sheet
+print_w_tickettr91;Print the Weighing Ticket
+eval_trs_exittr91_Pcp770;Evaluate the Truck Exit
+input_tally_sheettr70;Input the Tally Sheet
+print_w_tickettr70;Print the Weighing Ticket
+eval_trs_exittr70_Pcp770;Evaluate the Truck Exit
+assign_trs_Pcp1776;Assign Truck
+assign_trs_Pcp1776;Assign Truck
+assign_trs_Pcp1776;Assign Truck
+assign_trs_Pcp1776;Assign Truck
+assign_trs_Pcp1776;Assign Truck
+trs_entrytr3;Enter the port
+trs_entrytr67;Enter the port
+trs_entrytr52;Enter the port
+trs_entrytr5;Enter the port
+trs_entrytr79;Enter the port
+weigh_empty_trucktr3;Weigh the Empty Truck
+weigh_empty_trucktr79;Weigh the Empty Truck
+weigh_empty_trucktr67;Weigh the Empty Truck
+weigh_empty_trucktr52;Weigh the Empty Truck
+weigh_empty_trucktr5;Weigh the Empty Truck
+check_abnormalitytr3;Check Empty Truck Weight Abnormality
+check_abnormalitytr67;Check Empty Truck Weight Abnormality
+check_abnormalitytr79;Check Empty Truck Weight Abnormality
+check_abnormalitytr52;Check Empty Truck Weight Abnormality
+check_abnormalitytr5;Check Empty Truck Weight Abnormality
+fail_weightr3;Fail to Weigh
+fail_weightr67;Fail to Weigh
+fail_weightr79;Fail to Weigh
+arrive_at_Silo41;Arrive at the Silo
+arrive_at_Silo41;Arrive at the Silo
+determine_continuanceSilo41;Determine the Continuance of the Pickup
+determine_continuanceSilo41;Determine the Continuance of the Pickup
+load_trucktr5;Load Truck
+load_trucktr52;Load Truck
+Lodge_Pcp1020;Lodge Pickup Plan
+weigh_loaded_trucktr5;Weigh the Loaded Truck
+weigh_loaded_trucktr52;Weigh the Loaded Truck
+Lodge_Pcp1922;Lodge Pickup Plan
+input_tally_sheettr52;Input the Tally Sheet
+input_tally_sheettr5;Input the Tally Sheet
+print_w_tickettr5;Print the Weighing Ticket
+print_w_tickettr52;Print the Weighing Ticket
+assign_trs_Pcp820;Assign Truck
+assign_trs_Pcp820;Assign Truck
+assign_trs_Pcp820;Assign Truck
+assign_trs_Pcp820;Assign Truck
+assign_trs_Pcp820;Assign Truck
+assign_trs_Pcp820;Assign Truck
+eval_trs_exittr5_Pcp1776;Evaluate the Truck Exit
+eval_trs_exittr52_Pcp1776;Evaluate the Truck Exit
+assign_trs_Pcp820;Assign Truck
+trs_entrytr62;Enter the port
+trs_entrytr68;Enter the port
+trs_entrytr55;Enter the port
+trs_entrytr22;Enter the port
+trs_entrytr50;Enter the port
+trs_entrytr100;Enter the port
+weigh_empty_trucktr55;Weigh the Empty Truck
+weigh_empty_trucktr62;Weigh the Empty Truck
+weigh_empty_trucktr68;Weigh the Empty Truck
+trs_entrytr23;Enter the port
+weigh_empty_trucktr22;Weigh the Empty Truck
+weigh_empty_trucktr50;Weigh the Empty Truck
+weigh_empty_trucktr100;Weigh the Empty Truck
+weigh_empty_trucktr23;Weigh the Empty Truck
+check_abnormalitytr55;Check Empty Truck Weight Abnormality
+check_abnormalitytr68;Check Empty Truck Weight Abnormality
+check_abnormalitytr62;Check Empty Truck Weight Abnormality
+check_abnormalitytr22;Check Empty Truck Weight Abnormality
+check_abnormalitytr100;Check Empty Truck Weight Abnormality
+check_abnormalitytr50;Check Empty Truck Weight Abnormality
+fail_weightr62;Fail to Weigh
+fail_weightr55;Fail to Weigh
+check_abnormalitytr23;Check Empty Truck Weight Abnormality
+fail_weightr100;Fail to Weigh
+fail_weightr50;Fail to Weigh
+arrive_at_Silo29;Arrive at the Silo
+fail_weightr23;Fail to Weigh
+determine_continuanceSilo29;Determine the Continuance of the Pickup
+arrive_at_Silo29;Arrive at the Silo
+load_trucktr68;Load Truck
+determine_continuanceSilo29;Determine the Continuance of the Pickup
+load_trucktr22;Load Truck
+weigh_loaded_trucktr68;Weigh the Loaded Truck
+weigh_loaded_trucktr22;Weigh the Loaded Truck
+print_w_tickettr68;Print the Weighing Ticket
+input_tally_sheettr68;Input the Tally Sheet
+eval_trs_exittr68_Pcp820;Evaluate the Truck Exit
+print_w_tickettr22;Print the Weighing Ticket
+input_tally_sheettr22;Input the Tally Sheet
+eval_trs_exittr22_Pcp820;Evaluate the Truck Exit
+Lodge_Pcp1963;Lodge Pickup Plan
+assign_trs_Pcp1922;Assign Truck
+assign_trs_Pcp1922;Assign Truck
+assign_trs_Pcp1922;Assign Truck
+assign_trs_Pcp1922;Assign Truck
+trs_entrytr26;Enter the port
+weigh_empty_trucktr26;Weigh the Empty Truck
+trs_entrytr19;Enter the port
+trs_entrytr76;Enter the port
+trs_entrytr35;Enter the port
+weigh_empty_trucktr76;Weigh the Empty Truck
+weigh_empty_trucktr19;Weigh the Empty Truck
+weigh_empty_trucktr35;Weigh the Empty Truck
+check_abnormalitytr26;Check Empty Truck Weight Abnormality
+fail_weightr26;Fail to Weigh
+check_abnormalitytr76;Check Empty Truck Weight Abnormality
+check_abnormalitytr19;Check Empty Truck Weight Abnormality
+check_abnormalitytr35;Check Empty Truck Weight Abnormality
+fail_weightr76;Fail to Weigh
+fail_weightr19;Fail to Weigh
+arrive_at_Silo32;Arrive at the Silo
+determine_continuanceSilo32;Determine the Continuance of the Pickup
+load_trucktr35;Load Truck
+weigh_loaded_trucktr35;Weigh the Loaded Truck
+assign_trs_Pcp1020;Assign Truck
+assign_trs_Pcp1020;Assign Truck
+assign_trs_Pcp1020;Assign Truck
+assign_trs_Pcp1020;Assign Truck
+assign_trs_Pcp1020;Assign Truck
+assign_trs_Pcp1020;Assign Truck
+assign_trs_Pcp1020;Assign Truck
+print_w_tickettr35;Print the Weighing Ticket
+input_tally_sheettr35;Input the Tally Sheet
+Lodge_Pcp684;Lodge Pickup Plan
+trs_entrytr57;Enter the port
+trs_entrytr37;Enter the port
+trs_entrytr12;Enter the port
+trs_entrytr8;Enter the port
+eval_trs_exittr35_Pcp1922;Evaluate the Truck Exit
+trs_entrytr52;Enter the port
+trs_entrytr72;Enter the port
+trs_entrytr41;Enter the port
+weigh_empty_trucktr57;Weigh the Empty Truck
+weigh_empty_trucktr12;Weigh the Empty Truck
+weigh_empty_trucktr37;Weigh the Empty Truck
+weigh_empty_trucktr8;Weigh the Empty Truck
+weigh_empty_trucktr41;Weigh the Empty Truck
+weigh_empty_trucktr72;Weigh the Empty Truck
+weigh_empty_trucktr52;Weigh the Empty Truck
+check_abnormalitytr52;Check Empty Truck Weight Abnormality
+check_abnormalitytr41;Check Empty Truck Weight Abnormality
+check_abnormalitytr72;Check Empty Truck Weight Abnormality
+check_abnormalitytr8;Check Empty Truck Weight Abnormality
+check_abnormalitytr57;Check Empty Truck Weight Abnormality
+check_abnormalitytr12;Check Empty Truck Weight Abnormality
+check_abnormalitytr37;Check Empty Truck Weight Abnormality
+fail_weightr41;Fail to Weigh
+fail_weightr52;Fail to Weigh
+fail_weightr72;Fail to Weigh
+fail_weightr8;Fail to Weigh
+fail_weightr37;Fail to Weigh
+fail_weightr57;Fail to Weigh
+Lodge_Pcp33;Lodge Pickup Plan
+assign_trs_Pcp1963;Assign Truck
+assign_trs_Pcp1963;Assign Truck
+assign_trs_Pcp1963;Assign Truck
+assign_trs_Pcp1963;Assign Truck
+assign_trs_Pcp1963;Assign Truck
+assign_trs_Pcp1963;Assign Truck
+arrive_at_Silo19;Arrive at the Silo

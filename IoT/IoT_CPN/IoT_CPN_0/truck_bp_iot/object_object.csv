@@ -1,0 +1,56 @@
+ocel_source_id;ocel_target_id;ocel_qualifier;ocel_time
+Pcp770;Cr1032;Lodged pickup plan for cargo;2024-04-29 17:00:00
+Pcp1776;Cr1312;Lodged pickup plan for cargo;2024-05-01 06:00:00
+tr91;Pcp770;Assigned truck for pickup plan;2024-05-01 17:00:00
+tr70;Pcp770;Assigned truck for pickup plan;2024-05-01 18:30:00
+tr81;Pcp770;Assigned truck for pickup plan;2024-05-01 18:30:00
+Silo29;tr91;Aranged silo for truck;2024-05-02 03:53:20
+Silo29;tr70;Aranged silo for truck;2024-05-02 05:23:20
+Pcp820;Cr1414;Lodged pickup plan for cargo;2024-05-02 14:30:00
+tr91;Pcp770;Dropped truck from pickup plan;2024-05-02 16:06:40
+tr70;Pcp770;Dropped truck from pickup plan;2024-05-02 17:36:40
+tr3;Pcp1776;Assigned truck for pickup plan;2024-05-03 06:00:00
+tr79;Pcp1776;Assigned truck for pickup plan;2024-05-03 07:30:00
+tr5;Pcp1776;Assigned truck for pickup plan;2024-05-03 07:30:00
+tr52;Pcp1776;Assigned truck for pickup plan;2024-05-03 07:30:00
+tr67;Pcp1776;Assigned truck for pickup plan;2024-05-03 07:30:00
+Silo41;tr52;Aranged silo for truck;2024-05-04 03:53:20
+Silo41;tr5;Aranged silo for truck;2024-05-04 03:53:20
+Pcp1020;Cr1545;Lodged pickup plan for cargo;2024-05-04 09:30:00
+Pcp1922;Cr976;Lodged pickup plan for cargo;2024-05-04 13:30:00
+tr62;Pcp820;Assigned truck for pickup plan;2024-05-04 16:00:00
+tr55;Pcp820;Assigned truck for pickup plan;2024-05-04 16:00:00
+tr68;Pcp820;Assigned truck for pickup plan;2024-05-04 16:00:00
+tr50;Pcp820;Assigned truck for pickup plan;2024-05-04 17:30:00
+tr100;Pcp820;Assigned truck for pickup plan;2024-05-04 17:30:00
+tr22;Pcp820;Assigned truck for pickup plan;2024-05-04 17:30:00
+tr5;Pcp1776;Dropped truck from pickup plan;2024-05-04 18:53:20
+tr52;Pcp1776;Dropped truck from pickup plan;2024-05-04 18:53:20
+tr23;Pcp820;Assigned truck for pickup plan;2024-05-04 19:00:00
+Silo29;tr68;Aranged silo for truck;2024-05-05 18:16:40
+Silo29;tr22;Aranged silo for truck;2024-05-05 19:46:40
+tr68;Pcp820;Dropped truck from pickup plan;2024-05-06 06:30:00
+tr22;Pcp820;Dropped truck from pickup plan;2024-05-06 08:00:00
+Pcp1963;Cr289;Lodged pickup plan for cargo;2024-05-06 10:00:00
+tr26;Pcp1922;Assigned truck for pickup plan;2024-05-06 13:30:00
+tr35;Pcp1922;Assigned truck for pickup plan;2024-05-06 15:00:00
+tr19;Pcp1922;Assigned truck for pickup plan;2024-05-06 15:00:00
+tr76;Pcp1922;Assigned truck for pickup plan;2024-05-06 15:00:00
+Silo32;tr35;Aranged silo for truck;2024-05-07 01:53:20
+tr57;Pcp1020;Assigned truck for pickup plan;2024-05-07 09:27:15
+tr8;Pcp1020;Assigned truck for pickup plan;2024-05-07 09:27:15
+tr37;Pcp1020;Assigned truck for pickup plan;2024-05-07 09:27:15
+tr12;Pcp1020;Assigned truck for pickup plan;2024-05-07 09:27:15
+tr52;Pcp1020;Assigned truck for pickup plan;2024-05-07 10:57:15
+tr41;Pcp1020;Assigned truck for pickup plan;2024-05-07 10:57:15
+tr72;Pcp1020;Assigned truck for pickup plan;2024-05-07 10:57:15
+Pcp684;Cr957;Lodged pickup plan for cargo;2024-05-07 21:30:00
+tr35;Pcp1922;Dropped truck from pickup plan;2024-05-08 00:06:40
+Pcp33;Cr1882;Lodged pickup plan for cargo;2024-05-08 13:00:00
+tr1;Pcp1963;Assigned truck for pickup plan;2024-05-08 13:00:00
+tr28;Pcp1963;Assigned truck for pickup plan;2024-05-08 14:30:00
+tr68;Pcp1963;Assigned truck for pickup plan;2024-05-08 14:30:00
+tr69;Pcp1963;Assigned truck for pickup plan;2024-05-08 14:30:00
+tr61;Pcp1963;Assigned truck for pickup plan;2024-05-08 14:30:00
+tr33;Pcp1963;Assigned truck for pickup plan;2024-05-08 16:00:00
+Silo19;tr12;Aranged silo for truck;2024-05-08 16:43:55

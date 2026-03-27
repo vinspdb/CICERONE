@@ -1,0 +1,121 @@
+ocel_event_id;ocel_IoT_object_id;ocel_qualifier
+trs_entrytr91;rfidNGLODG;RFID tag read at entrance
+weigh_empty_trucktr91;WS13;Weight sensor for empty truck weighing
+trs_entrytr81;rfidSMPEYG;RFID tag read at entrance
+trs_entrytr70;rfidMHDTHU;RFID tag read at entrance
+weigh_empty_trucktr70;WS17;Weight sensor for empty truck weighing
+weigh_empty_trucktr81;WS05;Weight sensor for empty truck weighing
+check_abnormalitytr91;rfidNGLODG;RFID tag read at empty truck weighing
+check_abnormalitytr70;rfidMHDTHU;RFID tag read at empty truck weighing
+check_abnormalitytr81;rfidSMPEYG;RFID tag read at empty truck weighing
+determine_continuanceSilo29;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo29;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;3rd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo29;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;3rd grain temperature sensor for determining the pickup continuation
+weigh_loaded_trucktr91;WS01;Weight sensor for loaded truck weighing
+weigh_loaded_trucktr70;WS06;Weight sensor for loaded truck weighing
+trs_entrytr3;rfidKOZDLL;RFID tag read at entrance
+trs_entrytr67;rfidMQROJG;RFID tag read at entrance
+trs_entrytr52;rfidQHKPNQ;RFID tag read at entrance
+trs_entrytr5;rfidPBXVMC;RFID tag read at entrance
+trs_entrytr79;rfidKQQKDC;RFID tag read at entrance
+weigh_empty_trucktr3;WS06;Weight sensor for empty truck weighing
+weigh_empty_trucktr79;WS17;Weight sensor for empty truck weighing
+weigh_empty_trucktr67;WS04;Weight sensor for empty truck weighing
+weigh_empty_trucktr52;WS05;Weight sensor for empty truck weighing
+weigh_empty_trucktr5;WS11;Weight sensor for empty truck weighing
+check_abnormalitytr3;rfidKOZDLL;RFID tag read at empty truck weighing
+check_abnormalitytr67;rfidMQROJG;RFID tag read at empty truck weighing
+check_abnormalitytr79;rfidKQQKDC;RFID tag read at empty truck weighing
+check_abnormalitytr52;rfidQHKPNQ;RFID tag read at empty truck weighing
+check_abnormalitytr5;rfidPBXVMC;RFID tag read at empty truck weighing
+determine_continuanceSilo41;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo41;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;3rd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo41;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo41;null;3rd grain temperature sensor for determining the pickup continuation
+weigh_loaded_trucktr5;WS14;Weight sensor for loaded truck weighing
+weigh_loaded_trucktr52;WS08;Weight sensor for loaded truck weighing
+trs_entrytr62;rfidCOUVTA;RFID tag read at entrance
+trs_entrytr68;rfidMCXAKS;RFID tag read at entrance
+trs_entrytr55;rfidKSNYRV;RFID tag read at entrance
+trs_entrytr22;rfidQRXPSF;RFID tag read at entrance
+trs_entrytr50;rfidEDKJMO;RFID tag read at entrance
+trs_entrytr100;rfidPDLBJF;RFID tag read at entrance
+weigh_empty_trucktr55;WS11;Weight sensor for empty truck weighing
+weigh_empty_trucktr62;WS14;Weight sensor for empty truck weighing
+weigh_empty_trucktr68;WS06;Weight sensor for empty truck weighing
+trs_entrytr23;rfidHNWVAX;RFID tag read at entrance
+weigh_empty_trucktr22;WS09;Weight sensor for empty truck weighing
+weigh_empty_trucktr50;WS20;Weight sensor for empty truck weighing
+weigh_empty_trucktr100;WS01;Weight sensor for empty truck weighing
+weigh_empty_trucktr23;WS12;Weight sensor for empty truck weighing
+check_abnormalitytr55;rfidKSNYRV;RFID tag read at empty truck weighing
+check_abnormalitytr68;rfidMCXAKS;RFID tag read at empty truck weighing
+check_abnormalitytr62;rfidCOUVTA;RFID tag read at empty truck weighing
+check_abnormalitytr22;rfidQRXPSF;RFID tag read at empty truck weighing
+check_abnormalitytr100;rfidPDLBJF;RFID tag read at empty truck weighing
+check_abnormalitytr50;rfidEDKJMO;RFID tag read at empty truck weighing
+check_abnormalitytr23;rfidHNWVAX;RFID tag read at empty truck weighing
+determine_continuanceSilo29;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo29;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;3rd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo29;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo29;null;3rd grain temperature sensor for determining the pickup continuation
+weigh_loaded_trucktr68;WS01;Weight sensor for loaded truck weighing
+weigh_loaded_trucktr22;WS03;Weight sensor for loaded truck weighing
+trs_entrytr26;rfidMLIUWK;RFID tag read at entrance
+weigh_empty_trucktr26;WS05;Weight sensor for empty truck weighing
+trs_entrytr19;rfidNYBKKV;RFID tag read at entrance
+trs_entrytr76;rfidYEJSDF;RFID tag read at entrance
+trs_entrytr35;rfidUZWQLA;RFID tag read at entrance
+weigh_empty_trucktr76;WS08;Weight sensor for empty truck weighing
+weigh_empty_trucktr19;WS12;Weight sensor for empty truck weighing
+weigh_empty_trucktr35;WS18;Weight sensor for empty truck weighing
+check_abnormalitytr26;rfidMLIUWK;RFID tag read at empty truck weighing
+check_abnormalitytr76;rfidYEJSDF;RFID tag read at empty truck weighing
+check_abnormalitytr19;rfidNYBKKV;RFID tag read at empty truck weighing
+check_abnormalitytr35;rfidUZWQLA;RFID tag read at empty truck weighing
+determine_continuanceSilo32;null;Temperature sensor for determining the pickup continuation
+determine_continuanceSilo32;null;Humidity sensor for determining the pickup continuation
+determine_continuanceSilo32;null;1st grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo32;null;2nd grain temperature sensor for determining the pickup continuation
+determine_continuanceSilo32;null;3rd grain temperature sensor for determining the pickup continuation
+weigh_loaded_trucktr35;WS07;Weight sensor for loaded truck weighing
+trs_entrytr57;rfidZJJDWK;RFID tag read at entrance
+trs_entrytr37;rfidSUWITL;RFID tag read at entrance
+trs_entrytr12;rfidGLCFLJ;RFID tag read at entrance
+trs_entrytr8;rfidRPXRZH;RFID tag read at entrance
+trs_entrytr52;rfidQHKPNQ;RFID tag read at entrance
+trs_entrytr72;rfidSPNIUU;RFID tag read at entrance
+trs_entrytr41;rfidEXCNUM;RFID tag read at entrance
+weigh_empty_trucktr57;WS07;Weight sensor for empty truck weighing
+weigh_empty_trucktr12;WS16;Weight sensor for empty truck weighing
+weigh_empty_trucktr37;WS14;Weight sensor for empty truck weighing
+weigh_empty_trucktr8;WS12;Weight sensor for empty truck weighing
+weigh_empty_trucktr41;WS04;Weight sensor for empty truck weighing
+weigh_empty_trucktr72;WS20;Weight sensor for empty truck weighing
+weigh_empty_trucktr52;WS19;Weight sensor for empty truck weighing
+check_abnormalitytr52;rfidQHKPNQ;RFID tag read at empty truck weighing
+check_abnormalitytr41;rfidEXCNUM;RFID tag read at empty truck weighing
+check_abnormalitytr72;rfidSPNIUU;RFID tag read at empty truck weighing
+check_abnormalitytr8;rfidRPXRZH;RFID tag read at empty truck weighing
+check_abnormalitytr57;rfidZJJDWK;RFID tag read at empty truck weighing
+check_abnormalitytr12;rfidGLCFLJ;RFID tag read at empty truck weighing
+check_abnormalitytr37;rfidSUWITL;RFID tag read at empty truck weighing

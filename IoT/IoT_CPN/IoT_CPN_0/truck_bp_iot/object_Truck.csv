@@ -1,0 +1,313 @@
+ocel_id;ocel_time;ocel_changed_field;RFID No;Pickup Plan ID;Cargo ID;LPT;Axles;Scheduled Pickup Weight;Truck Status;Truck Weight;Is_normal
+tr44;2024-03-03 15:00:00;;rfidTYPMEU;;;034MVD;6;0.0;Available;0.0
+tr32;2024-03-03 15:00:00;;rfidWCJYKC;;;280QHM;2;0.0;Available;0.0
+tr46;2024-03-03 15:00:00;;rfidQJJJPX;;;627HFQ;2;0.0;Available;0.0
+tr87;2024-03-03 15:00:00;;rfidMOIZZH;;;343JTQ;4;0.0;Available;0.0
+tr74;2024-03-03 15:00:00;;rfidDSMGMR;;;622MSX;2;0.0;Available;0.0
+tr52;2024-03-03 15:00:00;;rfidQHKPNQ;;;625UFR;6;0.0;Available;0.0
+tr71;2024-03-03 15:00:00;;rfidEEDQZO;;;176TMP;6;0.0;Available;0.0
+tr86;2024-03-03 15:00:00;;rfidRJULHQ;;;566PER;4;0.0;Available;0.0
+tr69;2024-03-03 15:00:00;;rfidQNHSGI;;;842ZQT;2;0.0;Available;0.0
+tr14;2024-03-03 15:00:00;;rfidVEOPEU;;;060JWY;4;0.0;Available;0.0
+tr1;2024-03-03 15:00:00;;rfidWHLYXT;;;516RXR;6;0.0;Available;0.0
+tr19;2024-03-03 15:00:00;;rfidNYBKKV;;;041UNM;6;0.0;Available;0.0
+tr8;2024-03-03 15:00:00;;rfidRPXRZH;;;157LCX;4;0.0;Available;0.0
+tr27;2024-03-03 15:00:00;;rfidEYAEZK;;;419YCR;4;0.0;Available;0.0
+tr54;2024-03-03 15:00:00;;rfidQMEQPT;;;728KWU;2;0.0;Available;0.0
+tr48;2024-03-03 15:00:00;;rfidOXGGMT;;;170DML;2;0.0;Available;0.0
+tr34;2024-03-03 15:00:00;;rfidPRBGLX;;;738XRH;6;0.0;Available;0.0
+tr43;2024-03-03 15:00:00;;rfidTBJEOK;;;771OGG;4;0.0;Available;0.0
+tr42;2024-03-03 15:00:00;;rfidKKKARS;;;322GGS;6;0.0;Available;0.0
+tr98;2024-03-03 15:00:00;;rfidESNEYC;;;218IVR;6;0.0;Available;0.0
+tr9;2024-03-03 15:00:00;;rfidVSKCFX;;;636TWE;4;0.0;Available;0.0
+tr57;2024-03-03 15:00:00;;rfidZJJDWK;;;110JHX;4;0.0;Available;0.0
+tr17;2024-03-03 15:00:00;;rfidLFUPHY;;;693VMO;6;0.0;Available;0.0
+tr24;2024-03-03 15:00:00;;rfidBYOVGF;;;731QSN;6;0.0;Available;0.0
+tr51;2024-03-03 15:00:00;;rfidAYUFPZ;;;622JDN;6;0.0;Available;0.0
+tr64;2024-03-03 15:00:00;;rfidJPGTEP;;;716XCO;6;0.0;Available;0.0
+tr30;2024-03-03 15:00:00;;rfidMHVORV;;;528MQM;6;0.0;Available;0.0
+tr21;2024-03-03 15:00:00;;rfidMHLOGG;;;681JLZ;6;0.0;Available;0.0
+tr53;2024-03-03 15:00:00;;rfidJYDKFA;;;068JIT;2;0.0;Available;0.0
+tr7;2024-03-03 15:00:00;;rfidBSWTEL;;;704VGQ;6;0.0;Available;0.0
+tr80;2024-03-03 15:00:00;;rfidYSEYWA;;;646DIX;6;0.0;Available;0.0
+tr25;2024-03-03 15:00:00;;rfidWGMRTR;;;189TZF;4;0.0;Available;0.0
+tr15;2024-03-03 15:00:00;;rfidSLGTAY;;;512JWR;6;0.0;Available;0.0
+tr68;2024-03-03 15:00:00;;rfidMCXAKS;;;244NHW;4;0.0;Available;0.0
+tr6;2024-03-03 15:00:00;;rfidUFMPBQ;;;833CAW;4;0.0;Available;0.0
+tr97;2024-03-03 15:00:00;;rfidJQPXUQ;;;805NKM;4;0.0;Available;0.0
+tr100;2024-03-03 15:00:00;;rfidPDLBJF;;;611PEL;4;0.0;Available;0.0
+tr65;2024-03-03 15:00:00;;rfidAVUJRX;;;823MWT;2;0.0;Available;0.0
+tr81;2024-03-03 15:00:00;;rfidSMPEYG;;;623SUU;2;0.0;Available;0.0
+tr22;2024-03-03 15:00:00;;rfidQRXPSF;;;271TYM;2;0.0;Available;0.0
+tr38;2024-03-03 15:00:00;;rfidFMRPYF;;;275FJS;4;0.0;Available;0.0
+tr61;2024-03-03 15:00:00;;rfidPEVBVP;;;934VBU;6;0.0;Available;0.0
+tr90;2024-03-03 15:00:00;;rfidMBMMYT;;;935YUF;4;0.0;Available;0.0
+tr85;2024-03-03 15:00:00;;rfidJFKTVO;;;747BCE;2;0.0;Available;0.0
+tr47;2024-03-03 15:00:00;;rfidESJPHF;;;671NRX;2;0.0;Available;0.0
+tr41;2024-03-03 15:00:00;;rfidEXCNUM;;;207JOX;4;0.0;Available;0.0
+tr75;2024-03-03 15:00:00;;rfidHGNBVD;;;352PSG;2;0.0;Available;0.0
+tr83;2024-03-03 15:00:00;;rfidMCCHMA;;;766AVV;6;0.0;Available;0.0
+tr29;2024-03-03 15:00:00;;rfidPBEASI;;;768QPS;2;0.0;Available;0.0
+tr72;2024-03-03 15:00:00;;rfidSPNIUU;;;779BOG;4;0.0;Available;0.0
+tr20;2024-03-03 15:00:00;;rfidZIQFDD;;;271FSE;2;0.0;Available;0.0
+tr82;2024-03-03 15:00:00;;rfidGWTOLV;;;665MJJ;2;0.0;Available;0.0
+tr58;2024-03-03 15:00:00;;rfidGNNHCH;;;012CRA;6;0.0;Available;0.0
+tr12;2024-03-03 15:00:00;;rfidGLCFLJ;;;609FOJ;6;0.0;Available;0.0
+tr10;2024-03-03 15:00:00;;rfidWAHCGI;;;747FJX;2;0.0;Available;0.0
+tr16;2024-03-03 15:00:00;;rfidHROZMC;;;561PJB;4;0.0;Available;0.0
+tr93;2024-03-03 15:00:00;;rfidOFYUMJ;;;954IJB;6;0.0;Available;0.0
+tr37;2024-03-03 15:00:00;;rfidSUWITL;;;666USS;2;0.0;Available;0.0
+tr77;2024-03-03 15:00:00;;rfidXULXEK;;;433XVW;2;0.0;Available;0.0
+tr23;2024-03-03 15:00:00;;rfidHNWVAX;;;847TSW;4;0.0;Available;0.0
+tr96;2024-03-03 15:00:00;;rfidEOFLGX;;;245MPR;4;0.0;Available;0.0
+tr59;2024-03-03 15:00:00;;rfidMCXDHZ;;;880FTX;4;0.0;Available;0.0
+tr50;2024-03-03 15:00:00;;rfidEDKJMO;;;771XLY;4;0.0;Available;0.0
+tr95;2024-03-03 15:00:00;;rfidKCJMQQ;;;153HRI;4;0.0;Available;0.0
+tr55;2024-03-03 15:00:00;;rfidKSNYRV;;;926VFT;4;0.0;Available;0.0
+tr45;2024-03-03 15:00:00;;rfidGWBEUD;;;606MXL;6;0.0;Available;0.0
+tr67;2024-03-03 15:00:00;;rfidMQROJG;;;377XVN;4;0.0;Available;0.0
+tr31;2024-03-03 15:00:00;;rfidIXINPK;;;380DUE;4;0.0;Available;0.0
+tr49;2024-03-03 15:00:00;;rfidLJOTGH;;;110YOS;4;0.0;Available;0.0
+tr35;2024-03-03 15:00:00;;rfidUZWQLA;;;968MEX;6;0.0;Available;0.0
+tr56;2024-03-03 15:00:00;;rfidWGYSUK;;;720QYQ;6;0.0;Available;0.0
+tr70;2024-03-03 15:00:00;;rfidMHDTHU;;;858YMT;6;0.0;Available;0.0
+tr18;2024-03-03 15:00:00;;rfidTKKTSQ;;;152ACE;2;0.0;Available;0.0
+tr26;2024-03-03 15:00:00;;rfidMLIUWK;;;136ECQ;4;0.0;Available;0.0
+tr28;2024-03-03 15:00:00;;rfidWQNNFY;;;055DSW;2;0.0;Available;0.0
+tr33;2024-03-03 15:00:00;;rfidJIVMAX;;;751GPH;4;0.0;Available;0.0
+tr62;2024-03-03 15:00:00;;rfidCOUVTA;;;478FZE;6;0.0;Available;0.0
+tr92;2024-03-03 15:00:00;;rfidSFCVYY;;;347GGL;2;0.0;Available;0.0
+tr63;2024-03-03 15:00:00;;rfidKPRYBV;;;773CWA;4;0.0;Available;0.0
+tr78;2024-03-03 15:00:00;;rfidLFIZNN;;;508SPB;6;0.0;Available;0.0
+tr13;2024-03-03 15:00:00;;rfidRFYWQN;;;341KDU;2;0.0;Available;0.0
+tr66;2024-03-03 15:00:00;;rfidBVMSUK;;;335QUF;2;0.0;Available;0.0
+tr88;2024-03-03 15:00:00;;rfidVVMRTY;;;622SCZ;6;0.0;Available;0.0
+tr89;2024-03-03 15:00:00;;rfidQEMLKG;;;745QOR;4;0.0;Available;0.0
+tr40;2024-03-03 15:00:00;;rfidMULKOP;;;152SGS;6;0.0;Available;0.0
+tr84;2024-03-03 15:00:00;;rfidNNPNIV;;;125YSO;6;0.0;Available;0.0
+tr2;2024-03-03 15:00:00;;rfidPIPXDA;;;249VPA;2;0.0;Available;0.0
+tr76;2024-03-03 15:00:00;;rfidYEJSDF;;;022LBP;2;0.0;Available;0.0
+tr73;2024-03-03 15:00:00;;rfidCJEGOG;;;710YJQ;2;0.0;Available;0.0
+tr5;2024-03-03 15:00:00;;rfidPBXVMC;;;358QAR;2;0.0;Available;0.0
+tr94;2024-03-03 15:00:00;;rfidGPGWMP;;;478LVI;4;0.0;Available;0.0
+tr99;2024-03-03 15:00:00;;rfidPAEYVS;;;534VKG;2;0.0;Available;0.0
+tr79;2024-03-03 15:00:00;;rfidKQQKDC;;;846KXL;6;0.0;Available;0.0
+tr4;2024-03-03 15:00:00;;rfidREVSNM;;;702XFC;6;0.0;Available;0.0
+tr11;2024-03-03 15:00:00;;rfidHKEQKJ;;;513SPX;4;0.0;Available;0.0
+tr91;2024-03-03 15:00:00;;rfidNGLODG;;;316LBJ;4;0.0;Available;0.0
+tr39;2024-03-03 15:00:00;;rfidTVIXIB;;;538BRP;6;0.0;Available;0.0
+tr3;2024-03-03 15:00:00;;rfidKOZDLL;;;764KIO;2;0.0;Available;0.0
+tr36;2024-03-03 15:00:00;;rfidKNHTNI;;;199LWF;4;0.0;Available;0.0
+tr60;2024-03-03 15:00:00;;rfidCJKQVJ;;;581DYE;2;0.0;Available;0.0
+tr91;2024-05-01 17:00:00;Truck Status;;;;;;;Occupied
+tr91;2024-05-01 17:00:00;Pickup Plan ID;;Pcp770
+tr91;2024-05-01 17:00:00;Scheduled Pickup Weight;;;;;;8775.7
+tr91;2024-05-01 17:00:00;Cargo ID;;;Cr1032
+tr81;2024-05-01 18:30:00;Truck Status;;;;;;;Occupied
+tr81;2024-05-01 18:30:00;Pickup Plan ID;;Pcp770
+tr81;2024-05-01 18:30:00;Scheduled Pickup Weight;;;;;;8605.4
+tr81;2024-05-01 18:30:00;Cargo ID;;;Cr1032
+tr70;2024-05-01 18:30:00;Truck Status;;;;;;;Occupied
+tr70;2024-05-01 18:30:00;Pickup Plan ID;;Pcp770
+tr70;2024-05-01 18:30:00;Scheduled Pickup Weight;;;;;;8786.3
+tr70;2024-05-01 18:30:00;Cargo ID;;;Cr1032
+tr91;2024-05-01 22:53:20;Truck Weight;;;;;;;;12481.5
+tr70;2024-05-02 00:23:20;Truck Weight;;;;;;;;11240.4
+tr81;2024-05-02 00:23:20;Truck Weight;;;;;;;;14597.1
+tr91;2024-05-02 03:53:20;Is_normal;;;;;;;;;normal
+tr81;2024-05-02 04:00:00;Is_normal;;;;;;;;;abnormal
+tr81;2024-05-02 04:00:00;Truck Status;;;;;;;Available
+tr70;2024-05-02 05:23:20;Is_normal;;;;;;;;;normal
+tr91;2024-05-02 11:06:40;Truck Weight;;;;;;;;21257.2
+tr70;2024-05-02 12:36:40;Truck Weight;;;;;;;;20026.7
+tr91;2024-05-02 16:06:40;Truck Status;;;;;;;Available
+tr70;2024-05-02 17:36:40;Truck Status;;;;;;;Available
+tr3;2024-05-03 06:00:00;Truck Status;;;;;;;Occupied
+tr3;2024-05-03 06:00:00;Pickup Plan ID;;Pcp1776
+tr3;2024-05-03 06:00:00;Scheduled Pickup Weight;;;;;;9135.5
+tr3;2024-05-03 06:00:00;Cargo ID;;;Cr1312
+tr79;2024-05-03 07:30:00;Truck Status;;;;;;;Occupied
+tr79;2024-05-03 07:30:00;Pickup Plan ID;;Pcp1776
+tr79;2024-05-03 07:30:00;Scheduled Pickup Weight;;;;;;9078.7
+tr79;2024-05-03 07:30:00;Cargo ID;;;Cr1312
+tr5;2024-05-03 07:30:00;Truck Status;;;;;;;Occupied
+tr5;2024-05-03 07:30:00;Pickup Plan ID;;Pcp1776
+tr5;2024-05-03 07:30:00;Scheduled Pickup Weight;;;;;;9013.2
+tr5;2024-05-03 07:30:00;Cargo ID;;;Cr1312
+tr67;2024-05-03 07:30:00;Truck Status;;;;;;;Occupied
+tr67;2024-05-03 07:30:00;Pickup Plan ID;;Pcp1776
+tr67;2024-05-03 07:30:00;Scheduled Pickup Weight;;;;;;9065.8
+tr67;2024-05-03 07:30:00;Cargo ID;;;Cr1312
+tr52;2024-05-03 07:30:00;Truck Status;;;;;;;Occupied
+tr52;2024-05-03 07:30:00;Pickup Plan ID;;Pcp1776
+tr52;2024-05-03 07:30:00;Scheduled Pickup Weight;;;;;;9027.2
+tr52;2024-05-03 07:30:00;Cargo ID;;;Cr1312
+tr3;2024-05-03 17:46:40;Truck Weight;;;;;;;;14022.4
+tr79;2024-05-03 19:16:40;Truck Weight;;;;;;;;15467.5
+tr67;2024-05-03 19:16:40;Truck Weight;;;;;;;;15073.0
+tr52;2024-05-03 19:16:40;Truck Weight;;;;;;;;12695.2
+tr5;2024-05-03 19:16:40;Truck Weight;;;;;;;;11400.2
+tr3;2024-05-04 01:00:00;Is_normal;;;;;;;;;abnormal
+tr3;2024-05-04 01:00:00;Truck Status;;;;;;;Available
+tr67;2024-05-04 02:30:00;Is_normal;;;;;;;;;abnormal
+tr67;2024-05-04 02:30:00;Truck Status;;;;;;;Available
+tr79;2024-05-04 02:30:00;Is_normal;;;;;;;;;abnormal
+tr79;2024-05-04 02:30:00;Truck Status;;;;;;;Available
+tr52;2024-05-04 03:53:20;Is_normal;;;;;;;;;normal
+tr5;2024-05-04 03:53:20;Is_normal;;;;;;;;;normal
+tr5;2024-05-04 11:06:40;Truck Weight;;;;;;;;20413.4
+tr52;2024-05-04 11:06:40;Truck Weight;;;;;;;;21722.4
+tr55;2024-05-04 16:00:00;Truck Status;;;;;;;Occupied
+tr55;2024-05-04 16:00:00;Pickup Plan ID;;Pcp820
+tr55;2024-05-04 16:00:00;Scheduled Pickup Weight;;;;;;9179.1
+tr55;2024-05-04 16:00:00;Cargo ID;;;Cr1414
+tr68;2024-05-04 16:00:00;Truck Status;;;;;;;Occupied
+tr68;2024-05-04 16:00:00;Pickup Plan ID;;Pcp820
+tr68;2024-05-04 16:00:00;Scheduled Pickup Weight;;;;;;9128.9
+tr68;2024-05-04 16:00:00;Cargo ID;;;Cr1414
+tr62;2024-05-04 16:00:00;Truck Status;;;;;;;Occupied
+tr62;2024-05-04 16:00:00;Pickup Plan ID;;Pcp820
+tr62;2024-05-04 16:00:00;Scheduled Pickup Weight;;;;;;9245.8
+tr62;2024-05-04 16:00:00;Cargo ID;;;Cr1414
+tr100;2024-05-04 17:30:00;Truck Status;;;;;;;Occupied
+tr100;2024-05-04 17:30:00;Pickup Plan ID;;Pcp820
+tr100;2024-05-04 17:30:00;Scheduled Pickup Weight;;;;;;9059.1
+tr100;2024-05-04 17:30:00;Cargo ID;;;Cr1414
+tr50;2024-05-04 17:30:00;Truck Status;;;;;;;Occupied
+tr50;2024-05-04 17:30:00;Pickup Plan ID;;Pcp820
+tr50;2024-05-04 17:30:00;Scheduled Pickup Weight;;;;;;9104.9
+tr50;2024-05-04 17:30:00;Cargo ID;;;Cr1414
+tr22;2024-05-04 17:30:00;Truck Status;;;;;;;Occupied
+tr22;2024-05-04 17:30:00;Pickup Plan ID;;Pcp820
+tr22;2024-05-04 17:30:00;Scheduled Pickup Weight;;;;;;9101.3
+tr22;2024-05-04 17:30:00;Cargo ID;;;Cr1414
+tr5;2024-05-04 18:53:20;Truck Status;;;;;;;Available
+tr52;2024-05-04 18:53:20;Truck Status;;;;;;;Available
+tr23;2024-05-04 19:00:00;Truck Status;;;;;;;Occupied
+tr23;2024-05-04 19:00:00;Pickup Plan ID;;Pcp820
+tr23;2024-05-04 19:00:00;Scheduled Pickup Weight;;;;;;9156.7
+tr23;2024-05-04 19:00:00;Cargo ID;;;Cr1414
+tr55;2024-05-05 08:16:40;Truck Weight;;;;;;;;15593.5
+tr62;2024-05-05 08:16:40;Truck Weight;;;;;;;;15730.2
+tr68;2024-05-05 08:16:40;Truck Weight;;;;;;;;13751.5
+tr22;2024-05-05 09:46:40;Truck Weight;;;;;;;;11903.1
+tr50;2024-05-05 09:46:40;Truck Weight;;;;;;;;14819.5
+tr100;2024-05-05 09:46:40;Truck Weight;;;;;;;;14685.1
+tr23;2024-05-05 11:16:40;Truck Weight;;;;;;;;15968.1
+tr62;2024-05-05 15:30:00;Is_normal;;;;;;;;;abnormal
+tr62;2024-05-05 15:30:00;Truck Status;;;;;;;Available
+tr55;2024-05-05 15:30:00;Is_normal;;;;;;;;;abnormal
+tr55;2024-05-05 15:30:00;Truck Status;;;;;;;Available
+tr100;2024-05-05 17:00:00;Is_normal;;;;;;;;;abnormal
+tr100;2024-05-05 17:00:00;Truck Status;;;;;;;Available
+tr50;2024-05-05 17:00:00;Is_normal;;;;;;;;;abnormal
+tr50;2024-05-05 17:00:00;Truck Status;;;;;;;Available
+tr68;2024-05-05 18:16:40;Is_normal;;;;;;;;;normal
+tr23;2024-05-05 18:30:00;Is_normal;;;;;;;;;abnormal
+tr23;2024-05-05 18:30:00;Truck Status;;;;;;;Available
+tr22;2024-05-05 19:46:40;Is_normal;;;;;;;;;normal
+tr68;2024-05-06 01:30:00;Truck Weight;;;;;;;;22880.4
+tr22;2024-05-06 03:00:00;Truck Weight;;;;;;;;21004.4
+tr68;2024-05-06 06:30:00;Truck Status;;;;;;;Available
+tr22;2024-05-06 08:00:00;Truck Status;;;;;;;Available
+tr26;2024-05-06 13:30:00;Truck Status;;;;;;;Occupied
+tr26;2024-05-06 13:30:00;Pickup Plan ID;;Pcp1922
+tr26;2024-05-06 13:30:00;Scheduled Pickup Weight;;;;;;8150.2
+tr26;2024-05-06 13:30:00;Cargo ID;;;Cr976
+tr35;2024-05-06 15:00:00;Truck Status;;;;;;;Occupied
+tr35;2024-05-06 15:00:00;Pickup Plan ID;;Pcp1922
+tr35;2024-05-06 15:00:00;Scheduled Pickup Weight;;;;;;8181.2
+tr35;2024-05-06 15:00:00;Cargo ID;;;Cr976
+tr19;2024-05-06 15:00:00;Truck Status;;;;;;;Occupied
+tr19;2024-05-06 15:00:00;Pickup Plan ID;;Pcp1922
+tr19;2024-05-06 15:00:00;Scheduled Pickup Weight;;;;;;8080.5
+tr19;2024-05-06 15:00:00;Cargo ID;;;Cr976
+tr76;2024-05-06 15:00:00;Truck Status;;;;;;;Occupied
+tr76;2024-05-06 15:00:00;Pickup Plan ID;;Pcp1922
+tr76;2024-05-06 15:00:00;Scheduled Pickup Weight;;;;;;8010.2
+tr76;2024-05-06 15:00:00;Cargo ID;;;Cr976
+tr26;2024-05-06 19:23:20;Truck Weight;;;;;;;;14884.9
+tr76;2024-05-06 20:53:20;Truck Weight;;;;;;;;14417.6
+tr19;2024-05-06 20:53:20;Truck Weight;;;;;;;;14807.0
+tr35;2024-05-06 20:53:20;Truck Weight;;;;;;;;14177.4
+tr26;2024-05-06 23:00:00;Is_normal;;;;;;;;;abnormal
+tr26;2024-05-06 23:00:00;Truck Status;;;;;;;Available
+tr76;2024-05-07 00:30:00;Is_normal;;;;;;;;;abnormal
+tr76;2024-05-07 00:30:00;Truck Status;;;;;;;Available
+tr19;2024-05-07 00:30:00;Is_normal;;;;;;;;;abnormal
+tr19;2024-05-07 00:30:00;Truck Status;;;;;;;Available
+tr35;2024-05-07 01:53:20;Is_normal;;;;;;;;;normal
+tr35;2024-05-07 09:06:40;Truck Weight;;;;;;;;22358.6
+tr57;2024-05-07 09:27:15;Truck Status;;;;;;;Occupied
+tr57;2024-05-07 09:27:15;Pickup Plan ID;;Pcp1020
+tr57;2024-05-07 09:27:15;Scheduled Pickup Weight;;;;;;8693.9
+tr57;2024-05-07 09:27:15;Cargo ID;;;Cr1545
+tr8;2024-05-07 09:27:15;Truck Status;;;;;;;Occupied
+tr8;2024-05-07 09:27:15;Pickup Plan ID;;Pcp1020
+tr8;2024-05-07 09:27:15;Scheduled Pickup Weight;;;;;;8669.5
+tr8;2024-05-07 09:27:15;Cargo ID;;;Cr1545
+tr37;2024-05-07 09:27:15;Truck Status;;;;;;;Occupied
+tr37;2024-05-07 09:27:15;Pickup Plan ID;;Pcp1020
+tr37;2024-05-07 09:27:15;Scheduled Pickup Weight;;;;;;8673.4
+tr37;2024-05-07 09:27:15;Cargo ID;;;Cr1545
+tr12;2024-05-07 09:27:15;Truck Status;;;;;;;Occupied
+tr12;2024-05-07 09:27:15;Pickup Plan ID;;Pcp1020
+tr12;2024-05-07 09:27:15;Scheduled Pickup Weight;;;;;;8671.8
+tr12;2024-05-07 09:27:15;Cargo ID;;;Cr1545
+tr52;2024-05-07 10:57:15;Truck Status;;;;;;;Occupied
+tr52;2024-05-07 10:57:15;Pickup Plan ID;;Pcp1020
+tr52;2024-05-07 10:57:15;Scheduled Pickup Weight;;;;;;8661.3
+tr52;2024-05-07 10:57:15;Cargo ID;;;Cr1545
+tr72;2024-05-07 10:57:15;Truck Status;;;;;;;Occupied
+tr72;2024-05-07 10:57:15;Pickup Plan ID;;Pcp1020
+tr72;2024-05-07 10:57:15;Scheduled Pickup Weight;;;;;;8825.6
+tr72;2024-05-07 10:57:15;Cargo ID;;;Cr1545
+tr41;2024-05-07 10:57:15;Truck Status;;;;;;;Occupied
+tr41;2024-05-07 10:57:15;Pickup Plan ID;;Pcp1020
+tr41;2024-05-07 10:57:15;Scheduled Pickup Weight;;;;;;8713.4
+tr41;2024-05-07 10:57:15;Cargo ID;;;Cr1545
+tr35;2024-05-08 00:06:40;Truck Status;;;;;;;Available
+tr57;2024-05-08 03:07:15;Truck Weight;;;;;;;;16325.0
+tr12;2024-05-08 03:07:15;Truck Weight;;;;;;;;12083.4
+tr37;2024-05-08 03:07:15;Truck Weight;;;;;;;;14909.5
+tr8;2024-05-08 03:07:15;Truck Weight;;;;;;;;15676.7
+tr41;2024-05-08 04:37:15;Truck Weight;;;;;;;;12198.0
+tr72;2024-05-08 04:37:15;Truck Weight;;;;;;;;15227.9
+tr52;2024-05-08 04:37:15;Truck Weight;;;;;;;;14828.4
+tr41;2024-05-08 11:50:35;Is_normal;;;;;;;;;abnormal
+tr41;2024-05-08 11:50:35;Truck Status;;;;;;;Available
+tr52;2024-05-08 11:50:35;Is_normal;;;;;;;;;abnormal
+tr52;2024-05-08 11:50:35;Truck Status;;;;;;;Available
+tr72;2024-05-08 11:50:35;Is_normal;;;;;;;;;abnormal
+tr72;2024-05-08 11:50:35;Truck Status;;;;;;;Available
+tr8;2024-05-08 12:33:55;Is_normal;;;;;;;;;abnormal
+tr8;2024-05-08 12:33:55;Truck Status;;;;;;;Available
+tr37;2024-05-08 12:33:55;Is_normal;;;;;;;;;abnormal
+tr37;2024-05-08 12:33:55;Truck Status;;;;;;;Available
+tr57;2024-05-08 12:33:55;Is_normal;;;;;;;;;abnormal
+tr57;2024-05-08 12:33:55;Truck Status;;;;;;;Available
+tr1;2024-05-08 13:00:00;Truck Status;;;;;;;Occupied
+tr1;2024-05-08 13:00:00;Pickup Plan ID;;Pcp1963
+tr1;2024-05-08 13:00:00;Scheduled Pickup Weight;;;;;;8774.7
+tr1;2024-05-08 13:00:00;Cargo ID;;;Cr289
+tr28;2024-05-08 14:30:00;Truck Status;;;;;;;Occupied
+tr28;2024-05-08 14:30:00;Pickup Plan ID;;Pcp1963
+tr28;2024-05-08 14:30:00;Scheduled Pickup Weight;;;;;;8799.1
+tr28;2024-05-08 14:30:00;Cargo ID;;;Cr289
+tr68;2024-05-08 14:30:00;Truck Status;;;;;;;Occupied
+tr68;2024-05-08 14:30:00;Pickup Plan ID;;Pcp1963
+tr68;2024-05-08 14:30:00;Scheduled Pickup Weight;;;;;;8938.9
+tr68;2024-05-08 14:30:00;Cargo ID;;;Cr289
+tr69;2024-05-08 14:30:00;Truck Status;;;;;;;Occupied
+tr69;2024-05-08 14:30:00;Pickup Plan ID;;Pcp1963
+tr69;2024-05-08 14:30:00;Scheduled Pickup Weight;;;;;;8854.7
+tr69;2024-05-08 14:30:00;Cargo ID;;;Cr289
+tr61;2024-05-08 14:30:00;Truck Status;;;;;;;Occupied
+tr61;2024-05-08 14:30:00;Pickup Plan ID;;Pcp1963
+tr61;2024-05-08 14:30:00;Scheduled Pickup Weight;;;;;;8736.3
+tr61;2024-05-08 14:30:00;Cargo ID;;;Cr289
+tr33;2024-05-08 16:00:00;Truck Status;;;;;;;Occupied
+tr33;2024-05-08 16:00:00;Pickup Plan ID;;Pcp1963
+tr33;2024-05-08 16:00:00;Scheduled Pickup Weight;;;;;;8753.3
+tr33;2024-05-08 16:00:00;Cargo ID;;;Cr289
+tr12;2024-05-08 16:43:55;Is_normal;;;;;;;;;normal
