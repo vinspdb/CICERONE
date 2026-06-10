@@ -1,0 +1,19 @@
+viewpoint: issue
+relations:
+  - from: issue
+    to: user
+    qualifier: "created"
+    direction: forward
+  - from: issue
+    to: user
+    qualifier: "assignee"
+    direction: forward
+  - from: issue
+    to: user
+    qualifier: "requested_reviewer"
+    direction: forward
+
+include_objects:
+  - issue
+  - user
+  - commit
