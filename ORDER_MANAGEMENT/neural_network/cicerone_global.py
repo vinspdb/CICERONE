@@ -139,25 +139,36 @@ class SimpleGlobalTextPredictor(nn.Module):
             nn.Linear(256, 64), nn.GELU(), nn.Linear(64, 1)
         )
 
-    def encode_instances(self, local_texts: List[List[str]]) -> torch.Tensor:
+    def encode_instances(self, texts: List[List[str]]) -> torch.Tensor:
         device = next(self.encoder.parameters()).device
-        local_texts_flat = [
-            "\n".join([str(t) for t in texts if t is not None])
-            for texts in local_texts
-        ]
-        inputs = self.tokenizer(
-            local_texts_flat,
-            return_tensors='pt',
-            truncation=True,
-            padding='max_length',
-            max_length=512
-        )
-        inputs = {k: v.to(device) for k, v in inputs.items()}
-        with torch.set_grad_enabled(self.training):
-            outputs = self.encoder(**inputs)
-        cls_embeddings = outputs.last_hidden_state[:, 0, :]
-        projected = self.instance_projection(cls_embeddings)
-        return projected
+        embeddings = []
+        batch_size = 1
+
+        for i in range(0, len(texts), batch_size):
+            batch_texts = texts[i:i + batch_size]
+            batch_texts = [
+                "\n".join([str(t) for t in item if t is not None])
+                if isinstance(item, list) else item
+                for item in batch_texts
+            ]
+
+            inputs = self.tokenizer(
+                batch_texts,
+                return_tensors="pt",
+                truncation=True,
+                padding='longest',
+                max_length=512
+            )
+            inputs = {k: v.to(device) for k, v in inputs.items()}
+
+            with torch.set_grad_enabled(self.training):
+                outputs = self.encoder(**inputs)
+
+            cls_embeddings = outputs.last_hidden_state[:, 0, :]
+            projected = self.instance_projection(cls_embeddings)
+            embeddings.append(projected)
+
+        return torch.cat(embeddings, dim=0)
 
     def forward(self, local_texts: List[str]) -> torch.Tensor:
         instance_embeds = self.encode_instances(local_texts)
