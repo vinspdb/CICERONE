@@ -1,7 +1,7 @@
 from pystackt import get_github_log, export_to_ocel2
 
 #please, insert your GITHUB_ACCESS_TOKEN
-
+#Data collected on May 21, 2026
 get_github_log(
     GITHUB_ACCESS_TOKEN="your_github_token",
     repo_owner="pydantic",
